@@ -1,4 +1,4 @@
-# I'm Hakan Şen
+# I'm Hakan Sen
 ## JavaScript & Angular
 
 ### Connect with me:
